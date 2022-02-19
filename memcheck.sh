@@ -1,0 +1,1 @@
+make && make run && valgrind --tool=memcheck --leak-check=full ./obj/main
